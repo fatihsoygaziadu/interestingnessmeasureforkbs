@@ -1,0 +1,795 @@
+-------------------------------------------------------------------------------------------------------------------------
+C:\Users\Fatih Soygazi\Desktop\Academic Work\2021\Association_Rule_Mining\workspace\lubm-uba-generator\University0_0.daml
+-------------------------------------------------------------------------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 271 271
+Department 1 1
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 10
+AssociateProfessor 14 14
+AssistantProfessor 10 10
+Lecturer 7 7
+Student 0 0
+UndergraduateStudent 532 532
+GraduateStudent 146 146
+TeachingAssistant 29 29
+ResearchAssistant 39 39
+Course 62 62
+GraduateCourse 64 64
+Publication 455 455
+Chair 0 0
+Research 0 0
+ResearchGroup 10 10
+
+TOTAL: 1650
+TOTAL SO FAR: 1650
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1302 1302
+takesCourse 1880 1880
+teacherOf 126 126
+undergraduateDegreeFrom 187 187
+mastersDegreeFrom 41 41
+doctoralDegreeFrom 41 41
+advisor 250 250
+memberOf 678 678
+publicationAuthor 817 817
+headOf 1 1
+teachingAssistantOf 29 29
+researchInterest 102 102
+emailAddress 719 719
+telephone 719 719
+subOrganizationOf 11 11
+worksFor 41 41
+topicOfPhdDegree 34 34
+
+TOTAL: 6978
+TOTAL SO FAR: 6978
+
+-------------------------------------------------------------------------------------------------------------------------
+C:\Users\Fatih Soygazi\Desktop\Academic Work\2021\Association_Rule_Mining\workspace\lubm-uba-generator\University0_1.daml
+-------------------------------------------------------------------------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 227 498
+Department 1 2
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 17
+AssociateProfessor 13 27
+AssistantProfessor 8 18
+Lecturer 5 12
+Student 0 0
+UndergraduateStudent 458 990
+GraduateStudent 127 273
+TeachingAssistant 31 60
+ResearchAssistant 40 79
+Course 48 110
+GraduateCourse 51 115
+Publication 373 828
+Chair 0 0
+Research 0 0
+ResearchGroup 11 21
+
+TOTAL: 1400
+TOTAL SO FAR: 3050
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1091 2393
+takesCourse 1632 3512
+teacherOf 99 225
+undergraduateDegreeFrom 160 347
+mastersDegreeFrom 33 74
+doctoralDegreeFrom 33 74
+advisor 226 476
+memberOf 585 1263
+publicationAuthor 662 1479
+headOf 1 2
+teachingAssistantOf 31 60
+researchInterest 84 186
+emailAddress 618 1337
+telephone 618 1337
+subOrganizationOf 12 23
+worksFor 33 74
+topicOfPhdDegree 28 62
+
+TOTAL: 5946
+TOTAL SO FAR: 12924
+
+-------------------------------------------------------------------------------------------------------------------------
+C:\Users\Fatih Soygazi\Desktop\Academic Work\2021\Association_Rule_Mining\workspace\lubm-uba-generator\University0_2.daml
+-------------------------------------------------------------------------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 252 750
+Department 1 3
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 25
+AssociateProfessor 12 39
+AssistantProfessor 11 29
+Lecturer 5 17
+Student 0 0
+UndergraduateStudent 359 1349
+GraduateStudent 143 416
+TeachingAssistant 30 90
+ResearchAssistant 38 117
+Course 55 165
+GraduateCourse 50 165
+Publication 411 1239
+Chair 0 0
+Research 0 0
+ResearchGroup 11 32
+
+TOTAL: 1386
+TOTAL SO FAR: 4436
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1055 3448
+takesCourse 1382 4894
+teacherOf 105 330
+undergraduateDegreeFrom 179 526
+mastersDegreeFrom 36 110
+doctoralDegreeFrom 36 110
+advisor 217 693
+memberOf 502 1765
+publicationAuthor 777 2256
+headOf 1 3
+teachingAssistantOf 30 90
+researchInterest 93 279
+emailAddress 538 1875
+telephone 538 1875
+subOrganizationOf 12 35
+worksFor 36 110
+topicOfPhdDegree 31 93
+
+TOTAL: 5568
+TOTAL SO FAR: 18492
+
+-------------------------------------------------------------------------------------------------------------------------
+C:\Users\Fatih Soygazi\Desktop\Academic Work\2021\Association_Rule_Mining\workspace\lubm-uba-generator\University0_3.daml
+-------------------------------------------------------------------------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 228 978
+Department 1 4
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 34
+AssociateProfessor 14 53
+AssistantProfessor 9 38
+Lecturer 5 22
+Student 0 0
+UndergraduateStudent 503 1852
+GraduateStudent 116 532
+TeachingAssistant 29 119
+ResearchAssistant 34 151
+Course 54 219
+GraduateCourse 56 221
+Publication 397 1636
+Chair 0 0
+Research 0 0
+ResearchGroup 14 46
+
+TOTAL: 1469
+TOTAL SO FAR: 5905
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1164 4612
+takesCourse 1737 6631
+teacherOf 110 440
+undergraduateDegreeFrom 153 679
+mastersDegreeFrom 37 147
+doctoralDegreeFrom 37 147
+advisor 212 905
+memberOf 619 2384
+publicationAuthor 702 2958
+headOf 1 4
+teachingAssistantOf 29 119
+researchInterest 96 375
+emailAddress 656 2531
+telephone 656 2531
+subOrganizationOf 15 50
+worksFor 37 147
+topicOfPhdDegree 32 125
+
+TOTAL: 6293
+TOTAL SO FAR: 24785
+
+-------------------------------------------------------------------------------------------------------------------------
+C:\Users\Fatih Soygazi\Desktop\Academic Work\2021\Association_Rule_Mining\workspace\lubm-uba-generator\University0_4.daml
+-------------------------------------------------------------------------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 209 1187
+Department 1 5
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 44
+AssociateProfessor 11 64
+AssistantProfessor 8 46
+Lecturer 5 27
+Student 0 0
+UndergraduateStudent 385 2237
+GraduateStudent 106 638
+TeachingAssistant 25 144
+ResearchAssistant 28 179
+Course 51 270
+GraduateCourse 50 271
+Publication 434 2070
+Chair 0 0
+Research 0 0
+ResearchGroup 12 58
+
+TOTAL: 1335
+TOTAL SO FAR: 7240
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1061 5673
+takesCourse 1362 7993
+teacherOf 101 541
+undergraduateDegreeFrom 140 819
+mastersDegreeFrom 34 181
+doctoralDegreeFrom 34 181
+advisor 191 1096
+memberOf 491 2875
+publicationAuthor 678 3636
+headOf 1 5
+teachingAssistantOf 25 144
+researchInterest 87 462
+emailAddress 525 3056
+telephone 525 3056
+subOrganizationOf 13 63
+worksFor 34 181
+topicOfPhdDegree 29 154
+
+TOTAL: 5331
+TOTAL SO FAR: 30116
+
+-------------------------------------------------------------------------------------------------------------------------
+C:\Users\Fatih Soygazi\Desktop\Academic Work\2021\Association_Rule_Mining\workspace\lubm-uba-generator\University0_5.daml
+-------------------------------------------------------------------------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 223 1410
+Department 1 6
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 52
+AssociateProfessor 12 76
+AssistantProfessor 8 54
+Lecturer 5 32
+Student 0 0
+UndergraduateStudent 265 2502
+GraduateStudent 123 761
+TeachingAssistant 25 169
+ResearchAssistant 30 209
+Course 45 315
+GraduateCourse 47 318
+Publication 379 2449
+Chair 0 0
+Research 0 0
+ResearchGroup 16 74
+
+TOTAL: 1187
+TOTAL SO FAR: 8427
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 893 6566
+takesCourse 1044 9037
+teacherOf 92 633
+undergraduateDegreeFrom 156 975
+mastersDegreeFrom 33 214
+doctoralDegreeFrom 33 214
+advisor 170 1266
+memberOf 388 3263
+publicationAuthor 681 4317
+headOf 1 6
+teachingAssistantOf 25 169
+researchInterest 84 546
+emailAddress 421 3477
+telephone 421 3477
+subOrganizationOf 17 80
+worksFor 33 214
+topicOfPhdDegree 28 182
+
+TOTAL: 4520
+TOTAL SO FAR: 34636
+
+-------------------------------------------------------------------------------------------------------------------------
+C:\Users\Fatih Soygazi\Desktop\Academic Work\2021\Association_Rule_Mining\workspace\lubm-uba-generator\University0_6.daml
+-------------------------------------------------------------------------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 264 1674
+Department 1 7
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 62
+AssociateProfessor 14 90
+AssistantProfessor 10 64
+Lecturer 6 38
+Student 0 0
+UndergraduateStudent 543 3045
+GraduateStudent 143 904
+TeachingAssistant 35 204
+ResearchAssistant 47 256
+Course 58 373
+GraduateCourse 64 382
+Publication 454 2903
+Chair 0 0
+Research 0 0
+ResearchGroup 18 92
+
+TOTAL: 1667
+TOTAL SO FAR: 10094
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1303 7869
+takesCourse 1899 10936
+teacherOf 122 755
+undergraduateDegreeFrom 183 1158
+mastersDegreeFrom 40 254
+doctoralDegreeFrom 40 254
+advisor 275 1541
+memberOf 686 3949
+publicationAuthor 799 5116
+headOf 1 7
+teachingAssistantOf 35 204
+researchInterest 102 648
+emailAddress 726 4203
+telephone 726 4203
+subOrganizationOf 19 99
+worksFor 40 254
+topicOfPhdDegree 34 216
+
+TOTAL: 7030
+TOTAL SO FAR: 41666
+
+-------------------------------------------------------------------------------------------------------------------------
+C:\Users\Fatih Soygazi\Desktop\Academic Work\2021\Association_Rule_Mining\workspace\lubm-uba-generator\University0_7.daml
+-------------------------------------------------------------------------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 230 1904
+Department 1 8
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 71
+AssociateProfessor 14 104
+AssistantProfessor 9 73
+Lecturer 6 44
+Student 0 0
+UndergraduateStudent 361 3406
+GraduateStudent 115 1019
+TeachingAssistant 23 227
+ResearchAssistant 30 286
+Course 54 427
+GraduateCourse 50 432
+Publication 431 3334
+Chair 0 0
+Research 0 0
+ResearchGroup 18 110
+
+TOTAL: 1351
+TOTAL SO FAR: 11445
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1050 8919
+takesCourse 1294 12230
+teacherOf 104 859
+undergraduateDegreeFrom 153 1311
+mastersDegreeFrom 38 292
+doctoralDegreeFrom 38 292
+advisor 192 1733
+memberOf 476 4425
+publicationAuthor 706 5822
+headOf 1 8
+teachingAssistantOf 23 227
+researchInterest 96 744
+emailAddress 514 4717
+telephone 514 4717
+subOrganizationOf 19 118
+worksFor 38 292
+topicOfPhdDegree 32 248
+
+TOTAL: 5288
+TOTAL SO FAR: 46954
+
+-------------------------------------------------------------------------------------------------------------------------
+C:\Users\Fatih Soygazi\Desktop\Academic Work\2021\Association_Rule_Mining\workspace\lubm-uba-generator\University0_8.daml
+-------------------------------------------------------------------------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 224 2128
+Department 1 9
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 81
+AssociateProfessor 12 116
+AssistantProfessor 9 82
+Lecturer 5 49
+Student 0 0
+UndergraduateStudent 412 3818
+GraduateStudent 115 1134
+TeachingAssistant 26 253
+ResearchAssistant 38 324
+Course 52 479
+GraduateCourse 57 489
+Publication 423 3757
+Chair 0 0
+Research 0 0
+ResearchGroup 20 130
+
+TOTAL: 1404
+TOTAL SO FAR: 12849
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1096 10015
+takesCourse 1463 13693
+teacherOf 109 968
+undergraduateDegreeFrom 151 1462
+mastersDegreeFrom 36 328
+doctoralDegreeFrom 36 328
+advisor 205 1938
+memberOf 527 4952
+publicationAuthor 718 6540
+headOf 1 9
+teachingAssistantOf 26 253
+researchInterest 93 837
+emailAddress 563 5280
+telephone 563 5280
+subOrganizationOf 21 139
+worksFor 36 328
+topicOfPhdDegree 31 279
+
+TOTAL: 5675
+TOTAL SO FAR: 52629
+
+-------------------------------------------------------------------------------------------------------------------------
+C:\Users\Fatih Soygazi\Desktop\Academic Work\2021\Association_Rule_Mining\workspace\lubm-uba-generator\University0_9.daml
+-------------------------------------------------------------------------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 230 2358
+Department 1 10
+Faculty 0 0
+Professor 0 0
+FullProfessor 10 91
+AssociateProfessor 10 126
+AssistantProfessor 11 93
+Lecturer 7 56
+Student 0 0
+UndergraduateStudent 381 4199
+GraduateStudent 115 1249
+TeachingAssistant 24 277
+ResearchAssistant 33 357
+Course 58 537
+GraduateCourse 58 547
+Publication 431 4188
+Chair 0 0
+Research 0 0
+ResearchGroup 13 143
+
+TOTAL: 1382
+TOTAL SO FAR: 14231
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1082 11097
+takesCourse 1383 15076
+teacherOf 116 1084
+undergraduateDegreeFrom 153 1615
+mastersDegreeFrom 38 366
+doctoralDegreeFrom 38 366
+advisor 207 2145
+memberOf 496 5448
+publicationAuthor 677 7217
+headOf 1 10
+teachingAssistantOf 24 277
+researchInterest 93 930
+emailAddress 534 5814
+telephone 534 5814
+subOrganizationOf 14 153
+worksFor 38 366
+topicOfPhdDegree 31 310
+
+TOTAL: 5459
+TOTAL SO FAR: 58088
+
+--------------------------------------------------------------------------------------------------------------------------
+C:\Users\Fatih Soygazi\Desktop\Academic Work\2021\Association_Rule_Mining\workspace\lubm-uba-generator\University0_10.daml
+--------------------------------------------------------------------------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 213 2571
+Department 1 11
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 98
+AssociateProfessor 12 138
+AssistantProfessor 10 103
+Lecturer 6 62
+Student 0 0
+UndergraduateStudent 479 4678
+GraduateStudent 107 1356
+TeachingAssistant 25 302
+ResearchAssistant 35 392
+Course 52 589
+GraduateCourse 55 602
+Publication 359 4547
+Chair 0 0
+Research 0 0
+ResearchGroup 10 153
+
+TOTAL: 1371
+TOTAL SO FAR: 15602
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1088 12185
+takesCourse 1642 16718
+teacherOf 107 1191
+undergraduateDegreeFrom 142 1757
+mastersDegreeFrom 35 401
+doctoralDegreeFrom 35 401
+advisor 208 2353
+memberOf 586 6034
+publicationAuthor 597 7814
+headOf 1 11
+teachingAssistantOf 25 302
+researchInterest 87 1017
+emailAddress 621 6435
+telephone 621 6435
+subOrganizationOf 11 164
+worksFor 35 401
+topicOfPhdDegree 29 339
+
+TOTAL: 5870
+TOTAL SO FAR: 63958
+
+--------------------------------------------------------------------------------------------------------------------------
+C:\Users\Fatih Soygazi\Desktop\Academic Work\2021\Association_Rule_Mining\workspace\lubm-uba-generator\University0_11.daml
+--------------------------------------------------------------------------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 238 2809
+Department 1 12
+Faculty 0 0
+Professor 0 0
+FullProfessor 7 105
+AssociateProfessor 14 152
+AssistantProfessor 11 114
+Lecturer 5 67
+Student 0 0
+UndergraduateStudent 468 5146
+GraduateStudent 126 1482
+TeachingAssistant 29 331
+ResearchAssistant 36 428
+Course 56 645
+GraduateCourse 59 661
+Publication 393 4940
+Chair 0 0
+Research 0 0
+ResearchGroup 16 169
+
+TOTAL: 1459
+TOTAL SO FAR: 17061
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1140 13325
+takesCourse 1672 18390
+teacherOf 115 1306
+undergraduateDegreeFrom 163 1920
+mastersDegreeFrom 37 438
+doctoralDegreeFrom 37 438
+advisor 220 2573
+memberOf 594 6628
+publicationAuthor 675 8489
+headOf 1 12
+teachingAssistantOf 29 331
+researchInterest 96 1113
+emailAddress 631 7066
+telephone 631 7066
+subOrganizationOf 17 181
+worksFor 37 438
+topicOfPhdDegree 32 371
+
+TOTAL: 6127
+TOTAL SO FAR: 70085
+
+--------------------------------------------------------------------------------------------------------------------------
+C:\Users\Fatih Soygazi\Desktop\Academic Work\2021\Association_Rule_Mining\workspace\lubm-uba-generator\University0_12.daml
+--------------------------------------------------------------------------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 229 3038
+Department 1 13
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 114
+AssociateProfessor 12 164
+AssistantProfessor 8 122
+Lecturer 6 73
+Student 0 0
+UndergraduateStudent 486 5632
+GraduateStudent 123 1605
+TeachingAssistant 26 357
+ResearchAssistant 34 462
+Course 54 699
+GraduateCourse 50 711
+Publication 403 5343
+Chair 0 0
+Research 0 0
+ResearchGroup 11 180
+
+TOTAL: 1452
+TOTAL SO FAR: 18513
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1152 14477
+takesCourse 1724 20114
+teacherOf 104 1410
+undergraduateDegreeFrom 158 2078
+mastersDegreeFrom 35 473
+doctoralDegreeFrom 35 473
+advisor 220 2793
+memberOf 609 7237
+publicationAuthor 716 9205
+headOf 1 13
+teachingAssistantOf 26 357
+researchInterest 87 1200
+emailAddress 644 7710
+telephone 644 7710
+subOrganizationOf 12 193
+worksFor 35 473
+topicOfPhdDegree 29 400
+
+TOTAL: 6231
+TOTAL SO FAR: 76316
+
+--------------------------------------------------------------------------------------------------------------------------
+C:\Users\Fatih Soygazi\Desktop\Academic Work\2021\Association_Rule_Mining\workspace\lubm-uba-generator\University0_13.daml
+--------------------------------------------------------------------------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 259 3297
+Department 1 14
+Faculty 0 0
+Professor 0 0
+FullProfessor 9 123
+AssociateProfessor 13 177
+AssistantProfessor 9 131
+Lecturer 7 80
+Student 0 0
+UndergraduateStudent 504 6136
+GraduateStudent 144 1749
+TeachingAssistant 30 387
+ResearchAssistant 43 505
+Course 58 757
+GraduateCourse 57 768
+Publication 443 5786
+Chair 0 0
+Research 0 0
+ResearchGroup 15 195
+
+TOTAL: 1592
+TOTAL SO FAR: 20105
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 1245 15722
+takesCourse 1789 21903
+teacherOf 115 1525
+undergraduateDegreeFrom 182 2260
+mastersDegreeFrom 38 511
+doctoralDegreeFrom 38 511
+advisor 247 3040
+memberOf 648 7885
+publicationAuthor 863 10068
+headOf 1 14
+teachingAssistantOf 30 387
+researchInterest 93 1293
+emailAddress 686 8396
+telephone 686 8396
+subOrganizationOf 16 209
+worksFor 38 511
+topicOfPhdDegree 31 431
+
+TOTAL: 6746
+TOTAL SO FAR: 83062
+
+--------------------------------------------------------------------------------------------------------------------------
+C:\Users\Fatih Soygazi\Desktop\Academic Work\2021\Association_Rule_Mining\workspace\lubm-uba-generator\University0_14.daml
+--------------------------------------------------------------------------------------------------------------------------
+External Seed=0 Interal Seed=0
+
+CLASS INSTANCE# TOTAL-SO-FAR
+----------------------------
+University 231 3528
+Department 1 15
+Faculty 0 0
+Professor 0 0
+FullProfessor 8 131
+AssociateProfessor 12 189
+AssistantProfessor 8 139
+Lecturer 5 85
+Student 0 0
+UndergraduateStudent 350 6486
+GraduateStudent 131 1880
+TeachingAssistant 27 414
+ResearchAssistant 36 541
+Course 45 802
+GraduateCourse 44 812
+Publication 377 6163
+Chair 0 0
+Research 0 0
+ResearchGroup 14 209
+
+TOTAL: 1289
+TOTAL SO FAR: 21394
+
+PROPERTY INSTANCE# TOTAL-SO-FAR
+-------------------------------
+name 981 16703
+takesCourse 1311 23214
+teacherOf 89 1614
+undergraduateDegreeFrom 164 2424
+mastersDegreeFrom 33 544
+doctoralDegreeFrom 33 544
+advisor 192 3232
+memberOf 481 8366
+publicationAuthor 695 10763
+headOf 1 15
+teachingAssistantOf 27 414
+researchInterest 84 1377
+emailAddress 514 8910
+telephone 514 8910
+subOrganizationOf 15 224
+worksFor 33 544
+topicOfPhdDegree 28 459
+
+TOTAL: 5195
+TOTAL SO FAR: 88257
+

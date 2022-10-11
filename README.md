@@ -5,4 +5,3 @@ There are number of studies which focus on mining logical rules from knowledge b
 We compare the proposed measure with a widely used measure on a synthetic test data and on real KBs. We show that the proposed measure is more effective in showing the rule quality, and therefore, it is an appropriate interestingness measure for logical rule evaluation.
 
 This repository contains the Java code and the sample synthetic datasets to evaluate the proposed interestingness measure as submitted to PeerJ Computer Science journal with the name "An interestingness measure for knowledge bases".
-"

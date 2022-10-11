@@ -1,4 +1,4 @@
-# interestingnessmeasureforkbs
+# An Interestingness Measure for Knowledge Bases
 
 There are number of studies which focus on mining logical rules from knowledge bases (KBs), however they do not consider relations that can have several objects. These are called quasi-functions which can dramatically alter the interestingness of the rule. To the best of our knowledge, there are no studies that propose a measure to evaluate the strength of a logical rule in KBs by considering the impact of quasi-functions. We propose a new interestingness measure to assess the degree of certainty of logical rules by considering  functions and quasi-functions. The main objective of the proposed measure is to evaluate the strength of a rule more appropriately by grouping the subjects in quasi-functions.
 
